@@ -1,6 +1,6 @@
 "use client";
 
-import { DashboardUserButton } from "@/components/ui/dashboard-user-button";
+import { DashboardUserButton } from "@/modules/dashboard/ui/components/dashboard-user-button";
 import { cn } from "@/lib/utils";
 import { Separator } from "@/components/ui/separator";
 import {
